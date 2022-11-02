@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @akhilsplendid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine learning, Web development and cloud computing
+- 🌱 I’m currently pursuing masters in computer science at BTH karlskrona
+- 📫 How to reach me through my mail yadlapalliakhilesh@gmail.com
+
+
 
 <!---
 akhilsplendid/akhilsplendid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
