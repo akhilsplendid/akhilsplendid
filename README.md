@@ -18,11 +18,25 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there! I'm Akhilesh 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+Here is an expanded About Me section:
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
+<p align="left">I'm Akhilesh, a software developer from Hyderabad, India currently living in Sweden. I have a bachelor's degree in Computer Science and am pursuing my master's degree in Computer Science at Blekinge Institute of Technology.</p>
+
+<p align="left">I have 2 years of experience building web and mobile applications using technologies like React, React Native, Node.js, and MongoDB. I'm passionate about learning new technologies and staying up-to-date on the latest trends in software development.</p> 
+
+<p align="left">Currently, I'm working as a Software Developer at Company XYZ, where I work on developing and maintaining cloud-based applications. In my spare time, I enjoy indulging in my hobbies like playing basketball, video editing, and occasional gaming sessions.</p>
+
+<p align="left">I'm always looking to connect with other developers and technology enthusiasts. Feel free to reach out if you want to collaborate on a project or just chat about the latest tech!</p>
 
 ###
 
