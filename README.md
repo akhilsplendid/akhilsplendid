@@ -5,10 +5,28 @@
 ###
 
 <div align="center">
+  
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=''&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yadlapalli-akhilesh-9146a71b3/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=''&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+
+  <!-- Youtube -->
+  <a href="https://www.youtube.com/user/your-youtube-username">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
 
 ###
 
