@@ -29,6 +29,19 @@
 
 ###
 
+## 👨‍💻 About Me
+
+- 🎓 Pursuing MSc in Computer Science at Blekinge Institute of Technology
+
+- 💼 Worked as a React Native Developer Intern at Invisense 
+
+- ⚡ Built full stack apps using MERN and exercise tracking apps using React
+
+- 🤖 Developed Chatbot with PyTorch and deployed it using Hugging Face
+
+- 🎨 Designed UI/UX for mobile apps using Figma and Adobe XD
+
+
 Here is an expanded About Me section:
 
 ###
