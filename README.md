@@ -19,12 +19,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there! I'm Akhilesh 👋</h1>
 
 ###
@@ -35,7 +29,7 @@
 
 - 💼 Worked as a React Native Developer Intern at Invisense 
 
-- ⚡ Built full stack apps using MERN and exercise tracking apps using React
+- ⚡ Built full-stack apps using MERN and exercise tracking apps using React
 
 - 🤖 Developed Chatbot with PyTorch and deployed it using Hugging Face
 
@@ -47,27 +41,35 @@
 
 - Languages: Java, Python, JavaScript, C++
 
-- Frontend: React, React Native, Redux, HTML/CSS, Bootstrap 
+- Frontend: React, React Native, Redux, HTML/CSS, Bootstrap
+  
+- Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn
 
 - Backend: Node.js, Express, MongoDB, Firebase
 
-- ML: PyTorch, TensorFlow, Scikit-Learn
+- ML & AI: TensorFlow, PyTorch, Scikit-Learn, NLP
 
 - Cloud: Google Cloud, AWS, Docker, Kubernetes
 
-- Tools: Git, Postman, Jupyter, VS Code
+- Big Data: Spark, NoSQL Databases
+
+- Tools: Git, Postman, Jupyter, VS Code, RStudio
 
 
 
   ## 🚀 Projects
 
+- Developed streamlit app for master thesis for email summarization regarding part numbers in a Supply chain for helping supply planners.
+
+- Built interactive Power BI dashboards to visualize 10+ KPIs on inventory metrics
+  
 - Developed AI Chatbot trained on Harry Potter dialogues using PyTorch
 
-- Built mobile app with React Native and optimized UI/UX for smooth experience
+- Built mobile app with React Native and optimized UI/UX for a smooth experience
 
 - Implemented full stack MERN exercise tracker with user authentication
 
-- Created prototype for smart library management system with book recommendations
+- Created a prototype for a smart library management system with book recommendations
 
 - Optimized path planning algorithms using Matlab and simulated in Unreal Engine
 
@@ -109,6 +111,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
+
+## 📝 Certifications
+- Google Data Analytics Professional Certificate
+- Power BI Data Analyst Associate (Microsoft)
 
 ###
 
