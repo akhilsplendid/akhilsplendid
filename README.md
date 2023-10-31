@@ -42,25 +42,47 @@
 - 🎨 Designed UI/UX for mobile apps using Figma and Adobe XD
 
 
-Here is an expanded About Me section:
 
-###
+## 🛠 Technical Skills
 
-<h3 align="left">👩‍💻 About Me</h3>
+- Languages: Java, Python, JavaScript, C++
 
-###
+- Frontend: React, React Native, Redux, HTML/CSS, Bootstrap 
 
-<p align="left">I'm Akhilesh, a software developer from Hyderabad, India currently living in Sweden. I have a bachelor's degree in Computer Science and am pursuing my master's degree in Computer Science at Blekinge Institute of Technology.</p>
+- Backend: Node.js, Express, MongoDB, Firebase
 
-<p align="left">I have 2 years of experience building web and mobile applications using technologies like React, React Native, Node.js, and MongoDB. I'm passionate about learning new technologies and staying up-to-date on the latest trends in software development.</p> 
+- ML: PyTorch, TensorFlow, Scikit-Learn
 
-<p align="left">Currently, I'm working as a Software Developer at Company XYZ, where I work on developing and maintaining cloud-based applications. In my spare time, I enjoy indulging in my hobbies like playing basketball, video editing, and occasional gaming sessions.</p>
+- Cloud: Google Cloud, AWS, Docker, Kubernetes
 
-<p align="left">I'm always looking to connect with other developers and technology enthusiasts. Feel free to reach out if you want to collaborate on a project or just chat about the latest tech!</p>
+- Tools: Git, Postman, Jupyter, VS Code
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+  ## 🚀 Projects
+
+- Developed AI Chatbot trained on Harry Potter dialogues using PyTorch
+
+- Built mobile app with React Native and optimized UI/UX for smooth experience
+
+- Implemented full stack MERN exercise tracker with user authentication
+
+- Created prototype for smart library management system with book recommendations
+
+- Optimized path planning algorithms using Matlab and simulated in Unreal Engine
+
+
+  ## 🏆 Accomplishments
+
+- Won Storytelling Award at Volvo for supply chain visualization
+
+- Completed Google Cloud and Python Machine Learning certifications 
+
+- Published research paper on 'An AI-based System for Assisting Planners in a Supply Chain with Email Communication'
+
+
+
+
 
 ###
 
