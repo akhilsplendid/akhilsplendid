@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing MSc in Computer Science at Blekinge Institute of Technology
+- 🎓 Recently Graduated MSc in Computer Science at Blekinge Institute of Technology
 
 - 💼 Worked as a React Native Developer Intern at Invisense 
 
