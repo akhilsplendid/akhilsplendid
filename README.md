@@ -171,10 +171,88 @@
 |--------------|--------|------|
 | Python for Data Science, AI & Development | IBM | Mar 2024 |
 | Google IT Automation with Python | Google | Oct 2023 |
-| CKA - Certified Kubernetes Administrator | KodeKloud | Jul 2022 |
+
+</div>
+## 📝 Certifications & Courses
+
+### 🏆 Professional Certificates
+
+<div align="left">
+
+#### ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) Google IT Automation with Python Professional Certificate
+**Issuer:** Google | **Completed:** October 2023 | **[Verify Certificate →](https://coursera.org/verify/professional-cert/87AZC6M5F2NA)**
+
+Six-course professional certificate covering Python programming, Git/GitHub, troubleshooting, configuration management, and cloud automation for IT professionals.
+
+<details>
+<summary><b>📚 View All 6 Courses</b></summary>
+
+1. **Crash Course on Python**
+   - Python fundamentals, data structures, and programming principles
+   - Object-oriented programming basics
+   
+2. **Using Python to Interact with the Operating System**
+   - File handling and system interaction with Python
+   - Regular expressions and data processing
+   - Bash scripting integration
+
+3. **Introduction to Git and GitHub**
+   - Version control with Git
+   - Collaboration workflows
+   - GitHub best practices
+
+4. **Troubleshooting and Debugging Techniques**
+   - Systematic problem-solving approaches
+   - Debugging strategies and tools
+   - Performance optimization
+
+5. **Configuration Management and the Cloud**
+   - Automation at scale
+   - Cloud infrastructure management
+   - Configuration management tools
+
+6. **Automating Real-World Tasks with Python**
+   - Web APIs and data manipulation
+   - Image processing automation
+   - Email automation and reporting
+
+</details>
+
+**Skills Gained:** `Python` `Git` `GitHub` `Automation` `Linux` `Bash` `Debugging` `Cloud Computing` `Configuration Management`
+
+---
+
+#### ![IBM](https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white) Python for Data Science, AI & Development
+**Issuer:** IBM | **Completed:** March 2024
+
+Comprehensive course covering Python programming for data science, including data structures, Pandas, NumPy, REST APIs, and web scraping with BeautifulSoup.
+
+**Skills Gained:** `Python` `Data Science` `Pandas` `NumPy` `REST APIs` `Web Scraping` `Data Analysis`
+
+---
+
+#### ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) CKA - Certified Kubernetes Administrator
+**Issuer:** KodeKloud | **Completed:** July 2022
+
+Hands-on certification demonstrating expertise in container orchestration, cluster management, pod scheduling, networking, security, and troubleshooting in Kubernetes environments.
+
+**Skills Gained:** `Kubernetes` `Container Orchestration` `DevOps` `Cloud Infrastructure` `Cluster Management` `Docker`
 
 </div>
 
+---
+
+### 🎓 Google Cloud Skills Profile
+
+<div align="center">
+  <a href="https://www.skills.google/public_profiles/c50a948c-2a47-40cf-9ab8-774a606f0bf1">
+    <img src="https://img.shields.io/badge/View%20My%20Skills%20Profile-Google%20Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Skills Profile"/>
+  </a>
+</div>
+
+<p align="center">
+  <i>Explore my completed courses, skill badges, and Google Cloud assessments</i>
+</p>
 ---
 
 ## 📫 Let's Connect!
