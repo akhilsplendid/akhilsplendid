@@ -264,12 +264,6 @@ I'm always interested in discussing data engineering, event streaming, Kubernete
 - 🐦 Twitter: [@Akhiles01446643](https://twitter.com/Akhiles01446643)
 - 💻 GitHub: [@akhilsplendid](https://github.com/akhilsplendid)
 
----
-
-<h3 align="left">🔥 My Stats:</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilsplendid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
