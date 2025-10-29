@@ -1,10 +1,8 @@
-
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;" align="center">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="width:70%; position: absolute;"/>
 </div>
 
-
-  <div />
+<div />
 
 <div align="center">
   <!-- LinkedIn -->
@@ -12,13 +10,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 
-
   <!-- Twitter -->
   <a href="https://twitter.com/Akhiles01446643">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  
+  <!-- Email -->
+  <a href="mailto:akhileshybth@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
-
 
 ###
 
@@ -28,102 +29,173 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Recently Graduated MSc in Computer Science at Blekinge Institute of Technology
+- 🎓 **MSc in Computer Science** from Blekinge Institute of Technology (2023)
+- 💼 Currently working as **AI/Fullstack Developer** at Myehealth, building medical platforms with Java Spring Boot
+- 🔧 **Data Engineer** specializing in SQL data modeling, Java ETL pipelines, and event streaming
+- 📊 Built production data platforms processing **100K+ records** with real-time CDC and streaming analytics
+- ☸️ **CKA Certified** - Deploy and manage applications on Kubernetes with GitOps workflows
+- 🎯 Passionate about designing clean data models, building reliable pipelines, and enabling data-driven decisions
 
-- 💼 Worked as a React Native Developer Intern at Invisense 
-
-- ⚡ Built full-stack apps using MERN and exercise tracking apps using React
-
-- 🤖 Developed Chatbot with PyTorch and deployed it using Hugging Face
-
-- 🎨 Designed UI/UX for mobile apps using Figma and Adobe XD
-
-
+---
 
 ## 🛠 Technical Skills
 
-- Languages: Java, Python, JavaScript, C++
+### Data Engineering
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-FF6B6B?style=flat-square)
+![SCD](https://img.shields.io/badge/-SCD%20Type%202-4CAF50?style=flat-square)
+![Trino](https://img.shields.io/badge/-Trino-DD00A1?style=flat-square)
 
-- Frontend: React, React Native, Redux, HTML/CSS, Bootstrap
+### Streaming & CDC
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/-Debezium-FF6600?style=flat-square)
+![Kafka Connect](https://img.shields.io/badge/-Kafka%20Connect-231F20?style=flat-square)
+![Kafka Streams](https://img.shields.io/badge/-Kafka%20Streams-231F20?style=flat-square)
+
+### Services & Development
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### Platform & DevOps
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### ML & Analytics
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-4CAF50?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ [End-to-End Data Platform for Job Market Analytics](https://github.com/akhilsplendid/crossbring)
+**Tech Stack:** PostgreSQL | Kafka | Java | Kubernetes | ArgoCD | Helm
+
+- Built production-style data platform processing **100K+ Swedish job postings** with CDC pipelines and real-time analytics
+- Architected **JobModel schema** using dimensional modeling and **SCD Type 2** patterns for historical tracking
+- Implemented **streaming ETL** with Kafka Streams (Java) achieving **sub-second latency**
+- Deployed on Kubernetes using **ArgoCD for GitOps**, managing Kafka cluster and microservices with Helm
+- Established schema governance using **Confluent Schema Registry with Avro** for backward compatibility
+
+### 📊 Real-Time CDC Pipeline with Debezium
+**Tech Stack:** Debezium | Kafka Connect | PostgreSQL | Avro | Schema Registry
+
+- Designed CDC infrastructure capturing database changes from PostgreSQL to Kafka topics
+- Configured Kafka Connect clusters with source (Debezium) and sink (JDBC) connectors for bi-directional data flow
+- Implemented fallback mechanism using Python batch extractor for CDC restrictions
+- Achieved reliable data replication with exactly-once semantics
+
+### ⚡ Streaming Analytics Engine
+**Tech Stack:** Kafka Streams | Java | Spring Boot | Materialized Views
+
+- Developed real-time KPI engine computing regional job posting trends with windowed aggregations
+- Built fault-tolerant microservice achieving **99.5% uptime SLA**
+- Optimized stream processing through efficient state management and windowing strategies
+- Implemented materialized state stores for low-latency query serving
+
+### 🔧 Infrastructure as Code & GitOps
+**Tech Stack:** ArgoCD | Helm | Kubernetes | GitHub Actions | Docker
+
+- Created GitOps deployment framework using ArgoCD for declarative infrastructure management
+- Developed Helm charts for application packaging with templated configurations
+- Automated CI/CD pipelines for container builds, contract validation, and deployments
+- Implemented monitoring with health checks, readiness probes, and resource limits
+
+### 🤖 AI for Supply Chain Communication
+**Tech Stack:** Python | BERT | Transformers | NLP | Streamlit
+
+- **Master's Thesis at Volvo Group** - Implemented NLP solutions using BERT for automated email analysis
+- Developed user-friendly dashboard for visualizing supply chain communications
+- Published research findings in DIVA portal
+- **Won Storytelling Award** at Volvo Group Service Market Analython
+
+### 🎯 Autonomous Vehicle Path Planning
+**Tech Stack:** MATLAB | A* Algorithm | Unreal Engine
+
+- **Bachelor's Thesis** - Developed intelligent path planning system using variant A* algorithm
+- Designed UI to visualize vehicle trajectories and obstacle avoidance
+- Created simulation environments for testing and validation
+
+---
+
+## 🏆 Accomplishments
+
+- 🏅 **Won Storytelling Award** at Volvo Group for supply chain visualization and communication
+- ✅ **CKA Certified** - Certified Kubernetes Administrator (July 2022)
+- 🎓 **Google IT Automation with Python** Professional Certificate (Oct 2023)
+- 📜 **Python for Data Science, AI & Development** (IBM, Mar 2024)
+- 📊 **Published Research** - "AI-based System for Assisting Planners in Supply Chain with Email Communication"
+- 🎯 **Master's GPA:** 3.64/5.0 at Blekinge Institute of Technology
+
+---
+
+## 💼 Work Experience
+
+### AI/Fullstack Developer @ Myehealth *(May 2024 - Present)*
+- Building medical platform with **Java Spring Boot**, Docker, and GraphQL
+- Deploying ML pipelines for real-time health data analysis
+- Managing CI/CD workflows for reliable service delivery
+
+### Software Developer @ Inframotion Labs *(Jan 2024 - Apr 2024)*
+- Developed deep learning models for automatic gaze analysis using CNN and Transformers
+- Implemented computer vision pipelines using Python
+- Collaborated in agile development cycles with Git version control
+
+### Research Assistant @ Volvo Group *(Jan 2023 - Oct 2023)*
+- Implemented NLP solutions for supply chain communication automation
+- Built dashboards for email summarization and visualization
+- Published research findings contributing to enterprise-wide strategies
+
+---
+
+## 📝 Latest Certifications
+
+<div align="left">
   
-- Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn
+| Certification | Issuer | Date |
+|--------------|--------|------|
+| Python for Data Science, AI & Development | IBM | Mar 2024 |
+| Google IT Automation with Python | Google | Oct 2023 |
+| CKA - Certified Kubernetes Administrator | KodeKloud | Jul 2022 |
 
-- Backend: Node.js, Express, MongoDB, Firebase
-
-- ML & AI: TensorFlow, PyTorch, Scikit-Learn, NLP
-
-- Cloud: Google Cloud, AWS, Docker, Kubernetes
-
-- Big Data: Spark, NoSQL Databases
-
-- Tools: Git, Postman, Jupyter, VS Code, RStudio
-
-
-
-  ## 🚀 Projects
-
-- Developed streamlit app for master thesis for email summarization regarding part numbers in a Supply chain for helping supply planners.
-
-- Built interactive Power BI dashboards to visualize 10+ KPIs on inventory metrics
-  
-- Developed AI Chatbot trained on Harry Potter dialogues using PyTorch
-
-- Built mobile app with React Native and optimized UI/UX for a smooth experience
-
-- Implemented full stack MERN exercise tracker with user authentication
-
-- Created a prototype for a smart library management system with book recommendations
-
-- Optimized path planning algorithms using Matlab and simulated in Unreal Engine
-
-
-  ## 🏆 Accomplishments
-
-- Won Storytelling Award at Volvo for supply chain visualization
-
-- Completed Google Cloud and Python Machine Learning certifications 
-
-- Published research paper on 'An AI-based System for Assisting Planners in a Supply Chain with Email Communication'
-
-
-
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 📝 Certifications
-- Google Data Analytics Professional Certificate
-- Power BI Data Analyst Associate (Microsoft)
+---
 
-###
+## 📫 Let's Connect!
 
-<h3 align="left">🔥   My Stats :</h3>
+I'm always interested in discussing data engineering, event streaming, Kubernetes, and building reliable data platforms. Feel free to reach out!
 
-###
+- 💼 LinkedIn: [Akhilesh Yadlapalli](https://www.linkedin.com/in/yadlapalli-akhilesh-9146a71b3/)
+- 📧 Email: akhileshybth@gmail.com
+- 🐦 Twitter: [@Akhiles01446643](https://twitter.com/Akhiles01446643)
+- 💻 GitHub: [@akhilsplendid](https://github.com/akhilsplendid)
+
+---
+
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akhilsplendid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/akhilsplendid">akhilsplendid</a></i>
+</div>
