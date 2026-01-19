@@ -33,7 +33,7 @@
 - 💼 Currently working as **AI/Fullstack Developer** at Myehealth, building medical platforms with Java Spring Boot
 - 🔧 **Data Engineer** specializing in SQL data modeling, Java ETL pipelines, and event streaming
 - 📊 Built production data platforms processing **100K+ records** with real-time CDC and streaming analytics
-- ☸️ **CKA Certified** - Deploy and manage applications on Kubernetes with GitOps workflows
+- ☸️ Deploy and manage applications on Kubernetes with GitOps workflows
 - 🎯 Passionate about designing clean data models, building reliable pipelines, and enabling data-driven decisions
 
 ---
